@@ -1,0 +1,17 @@
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\bin\Debug\MVPTemplate.exe.config
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\bin\Debug\MVPTemplate.exe
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\bin\Debug\MVPTemplate.pdb
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\obj\Debug\MVPTemplate.csprojAssemblyReference.cache
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\obj\Debug\MainWindow.g.cs
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\obj\Debug\Views\HelloWorld.g.cs
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\obj\Debug\App.g.cs
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\obj\Debug\MVPTemplate_MarkupCompile.cache
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\obj\Debug\MVPTemplate_MarkupCompile.lref
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\obj\Debug\MainWindow.baml
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\obj\Debug\Views\HelloWorld.baml
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\obj\Debug\MVPTemplate.g.resources
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\obj\Debug\MVPTemplate.Properties.Resources.resources
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\obj\Debug\MVPTemplate.csproj.GenerateResource.cache
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\obj\Debug\MVPTemplate.csproj.CoreCompileInputs.cache
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\obj\Debug\MVPTemplate.exe
+C:\Users\saoom\source\repos\MVPTemplate\MVPTemplate\obj\Debug\MVPTemplate.pdb
